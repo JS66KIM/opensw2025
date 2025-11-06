@@ -4,5 +4,7 @@
 #include <stdio.h>
 
 void foo(void);
+void foofoo(void);
+void fooofoofoo(void);
 
 #endif // FUNC1_H
